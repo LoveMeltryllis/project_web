@@ -1,5 +1,34 @@
 [
   {
+    "objectID": "reports/article.html#data",
+    "href": "reports/article.html#data",
+    "title": "Article",
+    "section": "Data",
+    "text": "Data",
+    "crumbs": [
+      "Reports",
+      "Article"
+    ]
+  },
+  {
+    "objectID": "reports/article.html#analysis",
+    "href": "reports/article.html#analysis",
+    "title": "Article",
+    "section": "Analysis",
+    "text": "Analysis",
+    "crumbs": [
+      "Reports",
+      "Article"
+    ]
+  },
+  {
+    "objectID": "reports/slides/example.html#references",
+    "href": "reports/slides/example.html#references",
+    "title": "My Presentation",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\nWickham, Hadley, Romain François, Lionel Henry, Kirill Müller, and Davis Vaughan. 2023. Dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "README",
@@ -30,32 +59,25 @@
     ]
   },
   {
-    "objectID": "reports/slides/example.html#references",
-    "href": "reports/slides/example.html#references",
-    "title": "My Presentation",
-    "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\nWickham, Hadley, Romain François, Lionel Henry, Kirill Müller, and Davis Vaughan. 2023. Dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr."
-  },
-  {
-    "objectID": "reports/article.html#data",
-    "href": "reports/article.html#data",
-    "title": "Article",
-    "section": "Data",
-    "text": "Data",
+    "objectID": "reports/presentations.html",
+    "href": "reports/presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Reports",
-      "Article"
+      "Presentations"
     ]
   },
   {
-    "objectID": "reports/article.html#analysis",
-    "href": "reports/article.html#analysis",
-    "title": "Article",
-    "section": "Analysis",
-    "text": "Analysis",
+    "objectID": "reports/presentations.html#latest-presentations",
+    "href": "reports/presentations.html#latest-presentations",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Reports",
-      "Article"
+      "Presentations"
     ]
   },
   {
@@ -100,28 +122,6 @@
     "crumbs": [
       "Reports",
       "Prospectus"
-    ]
-  },
-  {
-    "objectID": "reports/presentations.html",
-    "href": "reports/presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Reports",
-      "Presentations"
-    ]
-  },
-  {
-    "objectID": "reports/presentations.html#latest-presentations",
-    "href": "reports/presentations.html#latest-presentations",
-    "title": "Presentations",
-    "section": "",
-    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Reports",
-      "Presentations"
     ]
   }
 ]
