@@ -1,34 +1,5 @@
 [
   {
-    "objectID": "reports/article.html#data",
-    "href": "reports/article.html#data",
-    "title": "Article",
-    "section": "Data",
-    "text": "Data",
-    "crumbs": [
-      "Reports",
-      "Article"
-    ]
-  },
-  {
-    "objectID": "reports/article.html#analysis",
-    "href": "reports/article.html#analysis",
-    "title": "Article",
-    "section": "Analysis",
-    "text": "Analysis",
-    "crumbs": [
-      "Reports",
-      "Article"
-    ]
-  },
-  {
-    "objectID": "reports/slides/example.html#references",
-    "href": "reports/slides/example.html#references",
-    "title": "My Presentation",
-    "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n\nWickham, Hadley, Romain François, Lionel Henry, Kirill Müller, and Davis Vaughan. 2023. Dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "README",
@@ -59,26 +30,11 @@
     ]
   },
   {
-    "objectID": "reports/presentations.html",
-    "href": "reports/presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Reports",
-      "Presentations"
-    ]
-  },
-  {
-    "objectID": "reports/presentations.html#latest-presentations",
-    "href": "reports/presentations.html#latest-presentations",
-    "title": "Presentations",
-    "section": "",
-    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Reports",
-      "Presentations"
-    ]
+    "objectID": "reports/slides/example.html#references",
+    "href": "reports/slides/example.html#references",
+    "title": "My Presentation",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\nWickham, Hadley, Romain François, Lionel Henry, Kirill Müller, and Davis Vaughan. 2023. Dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr."
   },
   {
     "objectID": "reports/prospectus.html",
@@ -122,6 +78,61 @@
     "crumbs": [
       "Reports",
       "Prospectus"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html#project-step-5",
+    "href": "reports/prospectus.html#project-step-5",
+    "title": "Prospectus",
+    "section": "Project step 5",
+    "text": "Project step 5\nBrainstorming Presentation:\nCentral Theme: The central theme of the research is the diachronic study of British and American English frequency shift in the past tense of English verbs. It aims to meticulously investigate changes in past tense usage between the two varieties over time.\nPotential Significance: The research provides valuable insights into language change, particularly in the context of British and American English. By analyzing data from COCA and BNC, the study sheds light on the evolution of past tense verb forms, contributing to our understanding of language variation and development. These findings have practical implications for language educators and curriculum developers, guiding the refinement of language learning strategies and materials.\nKey Takeaways:\nUnderstanding the evolution of past tense verb forms in British and American English. Insights into language change and variation. Practical implications for language education and curriculum development. Audience:\nLinguists Language educators Curriculum developers Researchers in language variation and change Key Messages:\nBritish and American English exhibit differences in past tense verb usage. Analysis of past tense frequency shifts provides insights into language change. Practical implications for language education and curriculum development. Desired Response from Audience:\nFeedback on research methodology and analysis Discussion on practical implications for language education Suggestions for further research avenues Presentation Outline:\nIntroduction Overview of the research topic and significance Research objectives and methodology Literature Review Previous studies on language change and variation Theoretical frameworks for analyzing past tense frequency shifts Data Collection and Analysis Description of data sources (COCA and BNC) Corpus-driven methodologies employed Analysis of past tense frequency shifts over time Findings Presentation of results from chi-square analysis Discussion of implications for British and American English Practical Implications How findings can inform language education and curriculum development Strategies for incorporating insights into teaching materials Conclusion Summary of key findings and implications Call for further research in the field Visual Aids:\nGraphs illustrating past tense frequency shifts over time Tables presenting chi-square analysis results Examples of past tense verb usage in British and American English\nBrainstorming Prospectus Revision: Key Takeaways from Feedback:\nClarity needed on the theoretical framework guiding the analysis Suggestions to expand the discussion on practical implications for language education Recommendation to include visuals for better understanding of the findings Incorporating Feedback:\nProvide more detail on the theoretical framework used for analyzing past tense frequency shifts Expand the discussion on practical implications, including specific examples for language educators Incorporate visual aids to enhance presentation clarity and comprehension Finalizing Research Plan:\nTheoretical Framework: Provide a detailed explanation of the theoretical framework guiding the analysis. Practical Implications: Expand the discussion on how findings can be applied in language education, with specific examples. Visual Aids: Incorporate graphs, tables, and examples to enhance presentation clarity. Timeline: Outline the timeline for finalizing the research and preparing the presentation. Resources: Identify any additional resources or support needed for finalizing the research plan.\nThis approach ensures a comprehensive and well-structured presentation that addresses the feedback received and aligns with the course learning outcomes.",
+    "crumbs": [
+      "Reports",
+      "Prospectus"
+    ]
+  },
+  {
+    "objectID": "reports/article.html#data",
+    "href": "reports/article.html#data",
+    "title": "Article",
+    "section": "Data",
+    "text": "Data",
+    "crumbs": [
+      "Reports",
+      "Article"
+    ]
+  },
+  {
+    "objectID": "reports/article.html#analysis",
+    "href": "reports/article.html#analysis",
+    "title": "Article",
+    "section": "Analysis",
+    "text": "Analysis",
+    "crumbs": [
+      "Reports",
+      "Article"
+    ]
+  },
+  {
+    "objectID": "reports/presentations.html",
+    "href": "reports/presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Reports",
+      "Presentations"
+    ]
+  },
+  {
+    "objectID": "reports/presentations.html#latest-presentations",
+    "href": "reports/presentations.html#latest-presentations",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Reports",
+      "Presentations"
     ]
   }
 ]
