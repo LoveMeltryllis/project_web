@@ -114,3 +114,81 @@ Google scholar and wiki and some random websites that explain corpus linguistic 
 What more would you like to know about?
 
 how to deal with huge amount of text effectivel.
+
+## Project step 5
+Brainstorming Presentation:
+
+Central Theme: The central theme of the research is the diachronic study of British and American English frequency shift in the past tense of English verbs. It aims to meticulously investigate changes in past tense usage between the two varieties over time.
+
+Potential Significance: The research provides valuable insights into language change, particularly in the context of British and American English. By analyzing data from COCA and BNC, the study sheds light on the evolution of past tense verb forms, contributing to our understanding of language variation and development. These findings have practical implications for language educators and curriculum developers, guiding the refinement of language learning strategies and materials.
+
+Key Takeaways:
+
+Understanding the evolution of past tense verb forms in British and American English.
+Insights into language change and variation.
+Practical implications for language education and curriculum development.
+Audience:
+
+Linguists
+Language educators
+Curriculum developers
+Researchers in language variation and change
+Key Messages:
+
+British and American English exhibit differences in past tense verb usage.
+Analysis of past tense frequency shifts provides insights into language change.
+Practical implications for language education and curriculum development.
+Desired Response from Audience:
+
+Feedback on research methodology and analysis
+Discussion on practical implications for language education
+Suggestions for further research avenues
+Presentation Outline:
+
+Introduction
+Overview of the research topic and significance
+Research objectives and methodology
+Literature Review
+Previous studies on language change and variation
+Theoretical frameworks for analyzing past tense frequency shifts
+Data Collection and Analysis
+Description of data sources (COCA and BNC)
+Corpus-driven methodologies employed
+Analysis of past tense frequency shifts over time
+Findings
+Presentation of results from chi-square analysis
+Discussion of implications for British and American English
+Practical Implications
+How findings can inform language education and curriculum development
+Strategies for incorporating insights into teaching materials
+Conclusion
+Summary of key findings and implications
+Call for further research in the field
+Visual Aids:
+
+Graphs illustrating past tense frequency shifts over time
+Tables presenting chi-square analysis results
+Examples of past tense verb usage in British and American English
+
+
+Brainstorming Prospectus Revision:
+Key Takeaways from Feedback:
+
+Clarity needed on the theoretical framework guiding the analysis
+Suggestions to expand the discussion on practical implications for language education
+Recommendation to include visuals for better understanding of the findings
+Incorporating Feedback:
+
+Provide more detail on the theoretical framework used for analyzing past tense frequency shifts
+Expand the discussion on practical implications, including specific examples for language educators
+Incorporate visual aids to enhance presentation clarity and comprehension
+Finalizing Research Plan:
+
+Theoretical Framework: Provide a detailed explanation of the theoretical framework guiding the analysis.
+Practical Implications: Expand the discussion on how findings can be applied in language education, with specific examples.
+Visual Aids: Incorporate graphs, tables, and examples to enhance presentation clarity.
+Timeline: Outline the timeline for finalizing the research and preparing the presentation.
+Resources: Identify any additional resources or support needed for finalizing the research plan.
+
+This approach ensures a comprehensive and well-structured presentation that addresses the feedback received and aligns with the course learning outcomes.
+
